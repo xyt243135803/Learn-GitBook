@@ -3,7 +3,7 @@
 - 参考 [GitBook入门](http://blog.csdn.net/hk2291976/article/details/51173850)
 
 ### 创建一本书
-- 1. 创建一个新的仓库
+1. 创建一个新的仓库
 ![](/assets/QQ20180224-174702@2x.png)
 - 2. 创建一个新的文件，名为SUMMARY.md
 ![](/assets/QQ20180224-175125@2x.png)
