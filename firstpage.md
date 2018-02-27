@@ -7,5 +7,9 @@
 3. 打开gitbook创建一本书，选择github
 ![](/assets/QQ20180224-172034@2x.png)
 4. 数据同步完成，打开后看到SUMMARY.md内容
-5. [下载客户端，可以在多个电脑上同步编辑](https://www.gitbook.com/editor)
-6. 
+(https://www.gitbook.com/editor)
+6. 添加一篇文章
+
+
+
+10. [下载客户端，可以在多个电脑上同步编辑]
