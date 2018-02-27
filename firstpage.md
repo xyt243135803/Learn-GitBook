@@ -8,7 +8,7 @@
 ![](/assets/QQ20180224-172034@2x.png)
 4. 数据同步完成，打开后看到SUMMARY.md内容
 (https://www.gitbook.com/editor)
-6. 添加一篇文章
+5. 添加一篇文章
 
 
 
