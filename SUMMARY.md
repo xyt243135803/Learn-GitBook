@@ -2,5 +2,5 @@
 
 * [前言](README.md)
 * [创建一本书](firstpage.md)
-* [secondPage](secondpage.md)
+* [添加一篇文章](secondpage.md)
 
